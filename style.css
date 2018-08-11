@@ -1,0 +1,27 @@
+#oltemplate {
+    list-style:none;
+    margin-bottom: 6px;
+    margin-left: 0px;
+    margin-right:0px;
+    border-bottom: 1px solid black;
+}
+#firstheader {
+    margin-bottom: 3px;
+    border-bottom: 1px solid black;
+}
+#firstheadline {
+    margin-bottom: 1px;
+    border-bottom: 1px solid black;
+    height:38px;
+    vertical-align:bottom;
+    
+}
+#firstarticle {
+    margin-top: 4px;
+    margin-bottom: 3px;
+    border-bottom: 1px solid black;
+}
+#firstfooter {
+    margin-bottom: 6px;
+    border-bottom: 2px solid black;
+}
